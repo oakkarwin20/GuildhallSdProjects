@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Framework">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Gameplay">
+      <UniqueIdentifier>{11e2ee8e-4a7e-4a57-9532-2ffa944be5be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameModes">
+      <UniqueIdentifier>{f0af888a-d453-4a69-a27a-be6995f8e045}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{914b6498-8f9e-49c2-bb27-3edcaced5757}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main_Windows.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="App.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="GameCommon.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMode_CCD_3D.cpp">
+      <Filter>GameModes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMode_Quadruped_3D.cpp">
+      <Filter>GameModes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMode_EulerTest.cpp">
+      <Filter>GameModes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMode_FABRIK_3D.cpp">
+      <Filter>GameModes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMode2D.cpp">
+      <Filter>GameModes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameModeBase.cpp">
+      <Filter>GameModes</Filter>
+    </ClCompile>
+    <ClCompile Include="FoodManager.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMode3D.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="Jellyfish.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="Quadruped.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMode_RobotArm_3D.cpp">
+      <Filter>GameModes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMode_Spider_3D.cpp">
+      <Filter>GameModes</Filter>
+    </ClCompile>
+    <ClCompile Include="SpiderBase.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMode_FABRIK_FwdOnly_3D.cpp">
+      <Filter>GameModes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMode_2BoneIK_3D.cpp">
+      <Filter>GameModes</Filter>
+    </ClCompile>
+    <ClCompile Include="Map_GameMode3D.cpp">
+      <Filter>GameModes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMode_Animations.cpp">
+      <Filter>GameModes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Map_Animations.cpp">
+      <Filter>GameModes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameCommon.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="App.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineBuildPreferences.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Map_GameMode3D.hpp">
+      <Filter>GameModes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameModeBase.hpp">
+      <Filter>GameModes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMode_2BoneIK_3D.hpp">
+      <Filter>GameModes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMode_CCD_3D.hpp">
+      <Filter>GameModes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMode_Quadruped_3D.hpp">
+      <Filter>GameModes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMode_EulerTest.hpp">
+      <Filter>GameModes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMode_FABRIK_3D.hpp">
+      <Filter>GameModes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMode2D.hpp">
+      <Filter>GameModes</Filter>
+    </ClInclude>
+    <ClInclude Include="FoodManager.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMode3D.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="Jellyfish.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="Quadruped.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMode_RobotArm_3D.hpp">
+      <Filter>GameModes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMode_Spider_3D.hpp">
+      <Filter>GameModes</Filter>
+    </ClInclude>
+    <ClInclude Include="SpiderBase.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMode_FABRIK_FwdOnly_3D.hpp">
+      <Filter>GameModes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMode_Animations.hpp">
+      <Filter>GameModes</Filter>
+    </ClInclude>
+    <ClInclude Include="Map_Animations.hpp">
+      <Filter>GameModes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\..\Run\Data\Shaders\Default.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\..\Run\Data\Shaders\Sprite.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="..\..\Run\Data\Shaders\SpriteLit.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

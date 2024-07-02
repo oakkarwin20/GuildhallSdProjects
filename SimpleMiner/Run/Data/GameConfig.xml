@@ -1,0 +1,8 @@
+<GameConfig
+	chunkActivationRange="250"
+	hiddenSurfaceRemoval="true"
+	debugBlockMinDist="0"
+	debugBlockMaxDist="3"
+	debugBlockLayers="6"
+/>
+

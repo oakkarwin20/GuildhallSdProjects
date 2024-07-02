@@ -1,0 +1,7 @@
+<TileDefinitions>
+	
+	<TileDefinition name="Grass"		isSolid="false"		spriteCoords="1,0"		tint="180,180,180"/>
+	<TileDefinition name="LongGrass"	isSolid="false"		spriteCoords="2,0"		tint="180,180,180"/>
+	<TileDefinition name="Dirt"			isSolid="false"		spriteCoords="5,2"/>
+					
+</TileDefinitions>

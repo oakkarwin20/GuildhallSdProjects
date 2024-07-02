@@ -1,0 +1,12 @@
+<MapDefinitions>
+
+	<MapDefinition 
+		name="Approach"
+		dimensions="16,24"
+		fillTileType="LongGrass"
+		leoCount="0"
+		ariesCount="0"
+		scorpioCount="0"
+	/>
+					
+</MapDefinitions>

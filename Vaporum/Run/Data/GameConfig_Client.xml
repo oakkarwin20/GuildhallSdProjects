@@ -1,0 +1,8 @@
+<GameConfig
+  netMode			="Client"
+  windowFullscreen	="false"
+  windowSize		="900, 1000"
+  windowPosition	="1000, 30"
+  windowTitle		="Vaporum Client"
+/>
+

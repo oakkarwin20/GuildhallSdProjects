@@ -1,0 +1,14 @@
+<GameConfig
+	aspect="2.0"
+	playerSpeed="3.0"
+	leoSpeed="2.0"
+	
+	PLAYER_TANK_MAX_SPEED="1.0f"
+	PLAYER_TANK_TURN_SPEED="180.0f"
+	
+	playerPhysicsRadius="0.3"
+	playerCosmeticRadius="1.4"
+	playerTurretTurnSpeed="360.0"
+	
+	BULLET_MAX_SPEED="50.0f"
+/>

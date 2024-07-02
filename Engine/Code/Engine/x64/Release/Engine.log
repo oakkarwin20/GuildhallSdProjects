@@ -1,0 +1,12 @@
+﻿  VertexUtils.cpp
+  AnalogJoystick.cpp
+  XboxController.cpp
+  AABB2.cpp
+  IntVec2.cpp
+  Mat44.cpp
+  MathUtils.cpp
+  Vec2.cpp
+  Vec3.cpp
+  Vec4.cpp
+  SpriteAnimDefinition.cpp
+  Engine.vcxproj -> D:\p4\Personal\SD\MathUnitTests\Temporary\Engine_x64_Release\Engine.lib

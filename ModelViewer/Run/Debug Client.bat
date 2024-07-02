@@ -1,0 +1,1 @@
+ModelViewer_Debug_Client_x64 LoadGameConfig File=Data/GameConfig_Client.xml

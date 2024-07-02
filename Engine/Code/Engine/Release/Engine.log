@@ -1,0 +1,31 @@
+﻿  Rgba8.cpp
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(7,18): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(7,20): warning C4309: 'initializing': truncation of constant value
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(8,18): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(8,20): warning C4309: 'initializing': truncation of constant value
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(9,18): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(9,20): warning C4309: 'initializing': truncation of constant value
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(10,18): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(10,20): warning C4309: 'initializing': truncation of constant value
+  Vertex_PCU.cpp
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(7,18): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(7,20): warning C4309: 'initializing': truncation of constant value
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(8,18): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(8,20): warning C4309: 'initializing': truncation of constant value
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(9,18): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(9,20): warning C4309: 'initializing': truncation of constant value
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(10,18): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(10,20): warning C4309: 'initializing': truncation of constant value
+  Vec2.cpp
+  Vec3.cpp
+  Camera.cpp
+  Renderer.cpp
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(7,18): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(7,20): warning C4309: 'initializing': truncation of constant value
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(8,18): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(8,20): warning C4309: 'initializing': truncation of constant value
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(9,18): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(9,20): warning C4309: 'initializing': truncation of constant value
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(10,18): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
+D:\p4\Personal\SD\Engine\Code\Engine\Core\Rgba8.hpp(10,20): warning C4309: 'initializing': truncation of constant value
+  Engine.vcxproj -> D:\p4\Personal\SD\Starship\Temporary\Engine_x86_Release\Engine.lib

@@ -1,0 +1,10 @@
+﻿  VertexUtils.cpp
+D:\p4\Personal\SD\Engine\Code\Engine\Core\VertexUtils.cpp(113,131): warning C4100: 'color': unreferenced formal parameter
+D:\p4\Personal\SD\Engine\Code\Engine\Core\VertexUtils.cpp(113,110): warning C4100: 'radius': unreferenced formal parameter
+D:\p4\Personal\SD\Engine\Code\Engine\Core\VertexUtils.cpp(113,95): warning C4100: 'boneEnd': unreferenced formal parameter
+D:\p4\Personal\SD\Engine\Code\Engine\Core\VertexUtils.cpp(113,72): warning C4100: 'boneStart': unreferenced formal parameter
+D:\p4\Personal\SD\Engine\Code\Engine\Core\VertexUtils.cpp(113,53): warning C4100: 'verts': unreferenced formal parameter
+D:\p4\Personal\SD\Engine\Code\Engine\Core\VertexUtils.cpp(118,87): warning C4100: 'color': unreferenced formal parameter
+D:\p4\Personal\SD\Engine\Code\Engine\Core\VertexUtils.cpp(118,69): warning C4100: 'box': unreferenced formal parameter
+D:\p4\Personal\SD\Engine\Code\Engine\Core\VertexUtils.cpp(118,49): warning C4100: 'verts': unreferenced formal parameter
+  Engine.vcxproj -> D:\p4\Personal\SD\MathVisualTests\Temporary\Engine_x64_Debug\Engine.lib

@@ -1,0 +1,18 @@
+<GameConfig
+	windowAspect		="2.0"
+	windowFullscreen	="true"
+	cameraStartPosition	="2,-1,6"
+	cameraFixedAngle	="90,60,0"
+	cameraPanSpeed		="10"
+	cameraElevateSpeed	="10"
+	cameraMinHeight		="1"
+	cameraFOVDegrees	="60"
+	cameraNearClip		="0.01"
+	cameraFarClip		="100"
+	defaultMap			="Grid12x12"
+	modelToLoad			="Teapot.xml"
+	netMode				="None"
+	netHostAddress		="127.0.0.1:65001"
+	netSendBufferSize	="2048"
+	netRecvBufferSize	="2048"
+/>

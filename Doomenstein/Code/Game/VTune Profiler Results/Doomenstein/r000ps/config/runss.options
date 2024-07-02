@@ -1,0 +1,16 @@
+-r
+D:\p4\Personal\SD\Doomenstein\Code\Game\VTune Profiler Results\Doomenstein\r000ps
+--stack-stitching
+--data-limit-mb=1000
+--disk-space-limit=0
+--mrte-type=java,dotnet
+--stack-unwind-limit=8388608
+--itt-config=frame
+--stackwalk=offline
+--mrte-mode=auto
+--type=cpu:counters:nostack
+--type=cpu:nostack
+--interval=100
+--app-working-dir=D:\p4\Personal\SD\Doomenstein\Run/
+--
+Doomenstein_Debug_x64.exe

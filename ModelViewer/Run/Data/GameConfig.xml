@@ -1,0 +1,7 @@
+<GameConfig
+	modelToLoad="Tutorial_Box.xml"
+	netMode="None"
+	netHostAddress="127.0.0.1:65001"
+	netSendBufferSize="2048"
+	netRecvBufferSize="2048" 
+/>
