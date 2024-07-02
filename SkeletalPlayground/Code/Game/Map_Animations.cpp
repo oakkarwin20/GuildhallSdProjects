@@ -1,5 +1,6 @@
 #include "Game/GameMode_Animations.hpp"
 #include "Game/Map_Animations.hpp"
+#include "Engine/Core/EngineCommon.hpp"
 
 
 //----------------------------------------------------------------------------------------------------------------------
@@ -31,6 +32,7 @@ void Map_Animations::Shutdown()
 //----------------------------------------------------------------------------------------------------------------------
 void Map_Animations::Update( float deltaSeconds )
 {
+	UNUSED( deltaSeconds );
 }
 
 

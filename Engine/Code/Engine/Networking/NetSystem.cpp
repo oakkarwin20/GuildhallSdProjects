@@ -612,6 +612,7 @@ bool NetSystem::Event_RemoteCommand( EventArgs& args )
 //----------------------------------------------------------------------------------------------------------------------
 bool NetSystem::Event_BurstTest( EventArgs& args )
 {
+	UNUSED( args );
 	// Can be executed on the client or server
 	// Sends 20 messages in one frame, instructing the remote machine to echo the numbers 1 to 20 in order
 	// Dev console must scaled and sized so that it can show all the output from this command, on both machines

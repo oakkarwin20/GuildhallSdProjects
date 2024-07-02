@@ -108,8 +108,8 @@ void TrimString( std::string& stringToTrim, char charToTrimOn )
 			}
 			else
 			{
-				char a = stringToTrim[0];
-				char b = stringToTrim[i];
+// 				char a = stringToTrim[0];
+// 				char b = stringToTrim[i];
 				std::string firstHalfOfString	= std::string( stringToTrim,	   0,	i ); 
 				std::string SecondHalfOfString	= std::string( stringToTrim, (i + 1), ( stringSize - 1 ) ); 
 				stringToTrim					= firstHalfOfString + SecondHalfOfString;

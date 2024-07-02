@@ -1,5 +1,6 @@
 #include "Engine/Math/ConvexHull3D.hpp"
 #include "Engine/Math/Plane3D.hpp"
+#include "Engine/Core/EngineCommon.hpp"
 
 
 //----------------------------------------------------------------------------------------------------------------------
@@ -18,6 +19,7 @@ ConvexHull3D::~ConvexHull3D()
 //----------------------------------------------------------------------------------------------------------------------
 bool ConvexHull3D::IsPointInside( Vec3 const& point )
 {
+	UNUSED( point );
 	return false;
 }
 
@@ -25,5 +27,6 @@ bool ConvexHull3D::IsPointInside( Vec3 const& point )
 //----------------------------------------------------------------------------------------------------------------------
 Vec3 ConvexHull3D::GetNearestPoint( Vec3 const& pointToCheck )
 {
+	UNUSED( pointToCheck );
 	return Vec3();
 }

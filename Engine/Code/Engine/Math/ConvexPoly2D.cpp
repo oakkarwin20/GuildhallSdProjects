@@ -1,6 +1,6 @@
 #include "Engine/Math/ConvexPoly2D.hpp"
 #include "Engine/Math/Vec2.hpp"
-
+#include "Engine/Core/EngineCommon.hpp"
 
 //----------------------------------------------------------------------------------------------------------------------
 ConvexPoly2D::ConvexPoly2D()
@@ -24,6 +24,7 @@ ConvexPoly2D::~ConvexPoly2D()
 //----------------------------------------------------------------------------------------------------------------------
 bool ConvexPoly2D::IsPointInside( Vec2 const& point )
 {
+	UNUSED( point );
 	return false;
 }
 
@@ -31,6 +32,7 @@ bool ConvexPoly2D::IsPointInside( Vec2 const& point )
 //----------------------------------------------------------------------------------------------------------------------
 Vec2 ConvexPoly2D::GetNearestPoint( Vec2 const& pointToCheck )
 {
+	UNUSED( pointToCheck );
 	return Vec2();
 }
 

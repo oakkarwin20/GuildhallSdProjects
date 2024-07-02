@@ -6,6 +6,8 @@
 #include "Engine/Math/EulerAngles.hpp"
 #include "Engine/Core/StringUtils.hpp"
 
+#include "Game/EngineBuildPreferences.hpp"
+#if defined( ENGINE_ENABLE_FBXSDK )
 
 #define FBXSDK_SHARED
 #include "fbxsdk.h"
@@ -532,3 +534,5 @@ void DestroyFBX( FbxScene** fbxScene, FbxManager** fbxManager )
 	(*fbxScene)  ->Destroy();
 	(*fbxManager)->Destroy();
 }
+
+#endif      // ENGINE_ENABLE_FBXSDK

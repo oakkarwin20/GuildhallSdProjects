@@ -1,6 +1,7 @@
 #include "Engine/Math/ConvexHull2D.hpp"
 #include "Engine/Math/ConvexPoly2D.hpp"
 #include "Engine/Math/MathUtils.hpp"
+#include "Engine/Core/EngineCommon.hpp"
 
 
 //----------------------------------------------------------------------------------------------------------------------
@@ -63,6 +64,7 @@ ConvexHull2D::~ConvexHull2D()
 //----------------------------------------------------------------------------------------------------------------------
 bool ConvexHull2D::IsPointInside( Vec2 const& point )
 {
+	UNUSED( point );
 	return false;
 }
 
@@ -70,6 +72,7 @@ bool ConvexHull2D::IsPointInside( Vec2 const& point )
 //----------------------------------------------------------------------------------------------------------------------
 Vec2 ConvexHull2D::GetNearestPoint( Vec2 const& pointToCheck )
 {
+	UNUSED( pointToCheck );
 	return Vec2();
 }
 
